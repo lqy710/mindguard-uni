@@ -28,5 +28,5 @@ dist
 *.env
 *.local.env
 src/.env
-legacy/ai-service/.env
-legacy/backend/.env
+ai-service/.env
+server/.env
