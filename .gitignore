@@ -25,5 +25,8 @@ dist
 
 # Secrets / local env
 .env
-legacy/ai-service/.env
+*.env
 *.local.env
+src/.env
+legacy/ai-service/.env
+legacy/backend/.env
