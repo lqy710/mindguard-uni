@@ -1,0 +1,10 @@
+flask>=2.0.0
+flask-cors>=3.0.0
+snownlp>=0.12.0
+requests>=2.28.0
+python-dotenv>=1.0.0
+numpy>=1.24.0
+# 注：embedding 仅使用远程 SiliconFlow API（见 config.SILICONFLOW_*），
+# 不再本地依赖 sentence-transformers / TF-IDF 兜底，故不列此依赖。
+pytest>=7.0.0
+pytest-cov>=4.0.0

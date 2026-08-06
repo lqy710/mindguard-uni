@@ -1,0 +1,97 @@
+{
+  "easycom": {
+    "autoscan": true,
+    "custom": {
+      "^wd-(.*)": "wot-design-uni/components/wd-$1/wd-$1.vue"
+    }
+  },
+  "pages": [
+    {
+      "path": "pages/login/login",
+      "style": { "navigationBarTitleText": "登录", "navigationStyle": "custom" }
+    },
+    {
+      "path": "pages/home/home",
+      "style": { "navigationBarTitleText": "MindGuard" }
+    },
+    {
+      "path": "pages/assessment/list",
+      "style": { "navigationBarTitleText": "心理测评" }
+    },
+    {
+      "path": "pages/assessment/detail",
+      "style": { "navigationBarTitleText": "测评答题", "navigationStyle": "custom" }
+    },
+    {
+      "path": "pages/assessment/result",
+      "style": {
+        "navigationBarTitleText": "测评结果",
+        "navigationBarBackgroundColor": "#5B8FB9",
+        "navigationBarTextStyle": "white"
+      }
+    },
+    {
+      "path": "pages/chat/chat",
+      "style": { "navigationBarTitleText": "AI 助手" }
+    },
+    {
+      "path": "pages/diary/diary",
+      "style": {
+        "navigationBarTitleText": "情绪日记",
+        "navigationBarBackgroundColor": "#5B8FB9",
+        "navigationBarTextStyle": "white",
+        "onReachBottomDistance": 80
+      }
+    },
+    {
+      "path": "pages/knowledge/list",
+      "style": { "navigationBarTitleText": "知识库", "onReachBottomDistance": 80 }
+    },
+    {
+      "path": "pages/knowledge/detail",
+      "style": { "navigationBarTitleText": "文章详情", "navigationStyle": "custom" }
+    },
+    {
+      "path": "pages/profile/profile",
+      "style": { "navigationBarTitleText": "我的" }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "MindGuard",
+    "navigationBarBackgroundColor": "#2c8a7a",
+    "backgroundColor": "#f6f8fb"
+  },
+  "tabBar": {
+    "color": "#62748a",
+    "selectedColor": "#2c8a7a",
+    "backgroundColor": "#ffffff",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "text": "首页",
+        "iconPath": "static/tabbar/home-normal.png",
+        "selectedIconPath": "static/tabbar/home-selected.png"
+      },
+      {
+        "pagePath": "pages/assessment/list",
+        "text": "测评",
+        "iconPath": "static/tabbar/assessment-normal.png",
+        "selectedIconPath": "static/tabbar/assessment-selected.png"
+      },
+      {
+        "pagePath": "pages/chat/chat",
+        "text": "AI助手",
+        "iconPath": "static/tabbar/chat-normal.png",
+        "selectedIconPath": "static/tabbar/chat-selected.png"
+      },
+      {
+        "pagePath": "pages/profile/profile",
+        "text": "我的",
+        "iconPath": "static/tabbar/profile-normal.png",
+        "selectedIconPath": "static/tabbar/profile-selected.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{"id": "crisis-001", "text": "我最近真的撑不下去了，好几次都想死", "type": "crisis", "expect_crisis": true, "expect_emotion": "crisis", "expect_stage": "crisis", "note": "显式自杀意念"}
+{"id": "crisis-002", "text": "活着没意思，什么都没有意义了", "type": "crisis", "expect_crisis": true, "expect_emotion": "crisis", "expect_stage": "crisis", "note": "生命意义感丧失"}
+{"id": "crisis-003", "text": "我昨天又自残了，手腕上都是伤", "type": "crisis", "expect_crisis": true, "expect_emotion": "crisis", "expect_stage": "crisis", "note": "自伤行为已发生"}
+{"id": "crisis-004", "text": "我已经把药攒好了，想一次性服药结束生命", "type": "crisis", "expect_crisis": true, "expect_emotion": "crisis", "expect_stage": "crisis", "note": "有具体计划与手段"}
+{"id": "crisis-005", "text": "站在天台上往下看的时候，真的有跳楼的冲动", "type": "crisis", "expect_crisis": true, "expect_emotion": "crisis", "expect_stage": "crisis", "note": "危机冲动描述"}
+{"id": "crisis-006", "text": "I keep thinking about how to kill myself", "type": "crisis", "expect_crisis": true, "expect_emotion": "crisis", "expect_stage": "crisis", "note": "英文危机表达"}
+{"id": "crisis-007", "text": "我不想活了，谁也帮不了我", "type": "crisis", "expect_crisis": true, "expect_emotion": "crisis", "expect_stage": "crisis", "note": "危机+无助"}
+{"id": "crisis-008", "text": "有时候会想，要是我割腕了是不是就解脱了", "type": "crisis", "expect_crisis": true, "expect_emotion": "crisis", "expect_stage": "crisis", "note": "假设句式的危机表达"}
+{"id": "emotion-neg-001", "text": "这段时间特别焦虑，晚上总是睡不着", "type": "emotion", "expect_crisis": false, "expect_emotion": "negative", "expect_stage": "assessment", "note": "焦虑+失眠"}
+{"id": "emotion-neg-002", "text": "我觉得很孤独，在学校里一个朋友都没有", "type": "emotion", "expect_crisis": false, "expect_emotion": "negative", "expect_stage": "assessment", "note": "孤独感"}
+{"id": "emotion-neg-003", "text": "最近压力好大，感觉整个人都快崩溃了", "type": "emotion", "expect_crisis": false, "expect_emotion": "negative", "expect_stage": "assessment", "note": "压力过载"}
+{"id": "emotion-neg-004", "text": "考砸了以后一直很难过，很沮丧", "type": "emotion", "expect_crisis": false, "expect_emotion": "negative", "expect_stage": "assessment", "note": "学业挫折"}
+{"id": "emotion-neg-005", "text": "和室友吵架了，现在特别生气又委屈", "type": "emotion", "expect_crisis": false, "expect_emotion": "negative", "expect_stage": "assessment", "note": "人际冲突"}
+{"id": "emotion-neg-006", "text": "I feel so depressed and exhausted lately", "type": "emotion", "expect_crisis": false, "expect_emotion": "negative", "expect_stage": "assessment", "note": "英文负面情绪"}
+{"id": "emotion-neg-007", "text": "每天都很疲惫，对什么都提不起兴趣", "type": "emotion", "expect_crisis": false, "expect_emotion": "negative", "expect_stage": "assessment", "note": "兴趣减退"}
+{"id": "emotion-pos-001", "text": "今天面试通过了，真的很开心很满足", "type": "emotion", "expect_crisis": false, "expect_emotion": "positive", "expect_stage": "assessment", "note": "积极事件"}
+{"id": "emotion-pos-002", "text": "谢谢你陪我聊这么久，我心里轻松多了", "type": "emotion", "expect_crisis": false, "expect_emotion": "positive", "expect_stage": "assessment", "note": "情绪好转"}
+{"id": "emotion-pos-003", "text": "最近状态不错，每天都过得很愉快", "type": "emotion", "expect_crisis": false, "expect_emotion": "positive", "expect_stage": "assessment", "note": "整体积极"}
+{"id": "emotion-pos-004", "text": "I am so happy and grateful today", "type": "emotion", "expect_crisis": false, "expect_emotion": "positive", "expect_stage": "assessment", "note": "英文积极情绪"}
+{"id": "emotion-neu-001", "text": "我今天下午三点有一节心理健康课", "type": "emotion", "expect_crisis": false, "expect_emotion": "neutral", "expect_stage": "assessment", "note": "纯事实陈述"}
+{"id": "emotion-neu-002", "text": "我是一名大三的学生，专业是计算机", "type": "emotion", "expect_crisis": false, "expect_emotion": "neutral", "expect_stage": "assessment", "note": "自我介绍"}
+{"id": "knowledge-001", "text": "焦虑的时候我该怎么办", "type": "knowledge", "expect_crisis": false, "expect_emotion": "negative", "expect_stage": "resource", "note": "索取方法：怎么办"}
+{"id": "knowledge-002", "text": "有没有什么方法可以缓解失眠", "type": "knowledge", "expect_crisis": false, "expect_emotion": "neutral", "expect_stage": "resource", "note": "索取方法：有没有方法"}
+{"id": "knowledge-003", "text": "请问如何应对考试压力", "type": "knowledge", "expect_crisis": false, "expect_emotion": "neutral", "expect_stage": "resource", "note": "索取方法：如何应对"}
+{"id": "knowledge-004", "text": "能给我一些改善人际关系的建议吗", "type": "knowledge", "expect_crisis": false, "expect_emotion": "neutral", "expect_stage": "resource", "note": "索取建议"}
+{"id": "knowledge-005", "text": "我想了解一下正念冥想的方法", "type": "knowledge", "expect_crisis": false, "expect_emotion": "neutral", "expect_stage": "resource", "note": "索取知识：想了解方法"}
+{"id": "knowledge-006", "text": "What can I do to reduce my anxiety", "type": "knowledge", "expect_crisis": false, "expect_emotion": "neutral", "expect_stage": "resource", "note": "英文索取方法"}
+{"id": "knowledge-007", "text": "教教我怎么调节情绪", "type": "knowledge", "expect_crisis": false, "expect_emotion": "neutral", "expect_stage": "resource", "note": "索取方法：教教我"}
+{"id": "knowledge-008", "text": "需要帮助，我不知道该怎么面对现在的状况", "type": "knowledge", "expect_crisis": false, "expect_emotion": "negative", "expect_stage": "resource", "note": "索取帮助"}
+{"id": "knowledge-009", "text": "有什么可以做的让自己不那么紧张", "type": "knowledge", "expect_crisis": false, "expect_emotion": "neutral", "expect_stage": "resource", "note": "索取方法：有什么可以做"}
+{"id": "knowledge-010", "text": "抑郁症和抑郁情绪有什么区别", "type": "knowledge", "expect_crisis": false, "expect_emotion": "neutral", "expect_stage": "assessment", "note": "纯概念问答，未索取方法，不应跳资源阶段"}
