@@ -30,3 +30,13 @@ dist
 src/.env
 ai-service/.env
 server/.env
+
+# Build / compiled output
+target/
+server/target/
+*.class
+ai-service/__pycache__/
+__pycache__/
+*.pyc
+.pytest_cache/
+legacy/__pycache__/
